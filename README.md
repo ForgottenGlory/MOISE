@@ -1,15 +1,15 @@
- _______  _______ _________ _______  _______ 
-(       )(  ___  )\__   __/(  ____ \(  ____ \
-| () () || (   ) |   ) (   | (    \/| (    \/
+ _______  _______ _________ _______  _______   
+(       )(  ___  )\__   __/(  ____ \(  ____ \  
+| () () || (   ) |   ) (   | (    \/| (    \/  
 | || || || |   | |   | |   | (_____ | (__    
 | |(_)| || |   | |   | |   (_____  )|  __)   
 | |   | || |   | |   | |         ) || (      
-| )   ( || (___) |___) (___/\____) || (____/\
-|/     \|(_______)\_______/\_______)(_______/
-Morrowind Overall Improvement Suite Enhanced
-By ForgottenGlory
-176 mods, 64 ESMs/ESPs
-MOISE GDrive Folder: https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp
+| )   ( || (___) |___) (___/\____) || (____/\  
+|/     \|(_______)\_______/\_______)(_______/  
+Morrowind Overall Improvement Suite Enhanced  
+By ForgottenGlory  
+176 mods, 64 ESMs/ESPs  
+MOISE GDrive Folder: https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp  
 
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 
