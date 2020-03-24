@@ -20,9 +20,6 @@ Let's be real. Morrowind could run on a toaster at this point. However, there ar
 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
 
-## Links
-[MOISE GDrive Folder](https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp)
-
 ## MORROWIND SETUP
 With Morrowind it is REQUIRED that you start with a clean, unmodified installation of the game. To get your Morrowind to this state, follow these steps:
 
@@ -33,7 +30,7 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 5. Run the Morrowind Launcher to create any INI or registry entries the game needs. Immediately exit after this. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ## INSTALLATION SETUP
-1. Download the Modlist File as well as the Wabbajack Installer. Do not run anything until instructed to do so.
+1. Download the [Modlist File](https://drive.google.com/open?id=1eCcK-fmDmtUpV19YZX5tUEfvpe8OMwjf) as well as the [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
 3. Create a second folder called C:\MOISE. This folder is where everything will be installed.
 4. Ensure that C:\MOISE is completely empty.
