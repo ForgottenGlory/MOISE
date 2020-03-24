@@ -1,8 +1,6 @@
 # MOISE
 Morrowind Overall Improvement Suite Enhanced  
-By ForgottenGlory  
-176 mods, 64 ESMs/ESPs  
-MOISE GDrive Folder: https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp  
+
 
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 
@@ -25,6 +23,9 @@ Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
 
+## Links
+MOISE GDrive Folder: https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp  
+
 ## MORROWIND SETUP
 With Morrowind it is REQUIRED that you start with a clean, unmodified installation of the game. To get your Morrowind to this state, follow these steps:
 
@@ -33,7 +34,6 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 3. Install Morrowind.
 4. In Steam, set Morrowind to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 5. Run the Morrowind Launcher to create any INI or registry entries the game needs. Immediately exit after this. The INIs will be overwritten by the ones included in the Wabbajack installer.
-
 
 ## INSTALLATION SETUP
 1. Download the Modlist File as well as the Wabbajack Installer. Do not run anything until instructed to do so.
