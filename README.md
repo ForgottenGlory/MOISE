@@ -13,15 +13,15 @@ I will do my best to provide support for adding mods to this list, but I make no
 ## SYSTEM SPECIFICATIONS
 Let's be real. Morrowind could run on a toaster at this point. However, there are a few options selected that may make particularly old/slow hardware struggle. Below are my system specifications. I have zero issues with stutter, loading times, or anything else.
 
-CPU: Intel i5-8600K Overclocked to 4.2GHz
-RAM: 16GB (16299MB actual)
-GPU: nVidia GTX 1070 8GB (8192MB actual)
-Monitor: Dell S2716DGR 2560x1440 @ 144hz
+* CPU: Intel i5-8600K Overclocked to 4.2GHz
+* RAM: 16GB (16299MB actual)
+* GPU: nVidia GTX 1070 8GB (8192MB actual)
+* Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
 
 ## Links
-MOISE GDrive Folder: https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp  
+[MOISE GDrive Folder](https://drive.google.com/open?id=16CBEas8_x6RgmYzUQmoLELGEY1RRjQCp)
 
 ## MORROWIND SETUP
 With Morrowind it is REQUIRED that you start with a clean, unmodified installation of the game. To get your Morrowind to this state, follow these steps:
@@ -63,7 +63,7 @@ If Wabbajack fails to download a particular mod, it means that the mod has likel
 ### Game Folder Files
 Now you have to copy some files to their correct locations. 
 1. Navigate to C:\MOISE\Game Folder Files. 
-2. Copy all of these files into <Steam Install Location>\steamapps\common\Morrowind\ and Overwrite if prompted.
+2. Copy all of these files into [Steam Install Location]\steamapps\common\Morrowind\ and Overwrite if prompted.
 
 ### Morrowind Code Patch
 Unfortunately, MCP doesn't come pre-configured because that would require redistributing a copy of the Morrowind.exe which is 100% illegal. So, we have to do it manually.
@@ -106,18 +106,18 @@ In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run but
 Morrowind is a very temperamental game. Here are some common fixes for issues you may encounter.
 
 - My game crashes immediately!
-MGE XE can sometimes be corrupt upon installation. Go to the folder where WJ downloaded all the mods and open the MGE XE Manual Install-41102-0-11-6-1560626592.7z file. Copy all of the files here into your Morrowind install folder and overwrite when prompted. You will not have to configure MGE XE again when doing this.
+  - MGE XE can sometimes be corrupt upon installation. Go to the folder where WJ downloaded all the mods and open the MGE XE Manual Install-41102-0-11-6-1560626592.7z file. Copy all of the files here into your Morrowind install folder and overwrite when prompted. You will not have to configure MGE XE again when doing this.
 
 - The game is saying there are missing mods!
-Morrowind is wrong. This, to put it simply, happens when the mods installed changed since the last time you launched Morrowind. This warning can be safely ignored. Saving your game should remove the error.
+  - Morrowind is wrong. This, to put it simply, happens when the mods installed changed since the last time you launched Morrowind. This warning can be safely ignored. Saving your game should remove the error.
 
 ## CREDITS & THANKS
-### MOISE created by ForgottenGlory
+* MOISE created by ForgottenGlory
 
-### Halgari & Wabbajack Team
-Thank you for creating Wabbajack, you’re amazing!
-Halgari’s Patreon: https://www.patreon.com/user?u=11907933
+* Halgari & Wabbajack Team
+  * Thank you for creating Wabbajack, you’re amazing!
+  * [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
 
-### Mod Authors
-None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
+* Mod Authors
+  * None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
 
