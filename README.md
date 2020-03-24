@@ -108,6 +108,11 @@ Morrowind is a very temperamental game. Here are some common fixes for issues yo
 - The game is saying there are missing mods!
   - Morrowind is wrong. This, to put it simply, happens when the mods installed changed since the last time you launched Morrowind. This warning can be safely ignored. Saving your game should remove the error.
 
+## Adding Mods
+In general, you should be able to build on top of MOISE. Feel free to fork it and make your own Morrowind modlist if you want.
+
+The only thing that needs to be mentioned is that MOISE is 100% incompatible with OpenMW, so mods that require it and OpenMW itself will not work under any circumstances.
+
 ## CREDITS & THANKS
 * MOISE created by ForgottenGlory
 
