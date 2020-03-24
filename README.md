@@ -32,15 +32,15 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 ## INSTALLATION SETUP
 1. Download the [Modlist File](https://drive.google.com/open?id=1eCcK-fmDmtUpV19YZX5tUEfvpe8OMwjf) as well as the [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
-3. Create a second folder called C:\MOISE. This folder is where everything will be installed.
-4. Ensure that C:\MOISE is completely empty.
+3. Create a second folder called C:\MME. This folder is where everything will be installed.
+4. Ensure that C:\MME is completely empty.
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
 ## WABBAJACK INSTALLATION
 1. Run Wabbajack.exe. At the bottom of the window, click Install from Disk. A file picker window will appear. 
-2. Navigate to C:\Wabbajack and select MOISE.
+2. Navigate to C:\Wabbajack and select MME.
 3. Click Open.
-4. Set the Installation Location to C:\MOISE. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD.
+4. Set the Installation Location to C:\MME. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD.
 5. Click Run.
 6. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
 
@@ -53,20 +53,20 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. Don’t forget to upload your log file!
 
-If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to MOISE is imminent. Be patient and wait for the new release. Do not ask other people to share older files as this is a violation of the Nexus ToS.
+If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to MME is imminent. Be patient and wait for the new release. Do not ask other people to share older files as this is a violation of the Nexus ToS.
 
 ## POST-WABBAJACK INSTALL
 
 ### Game Folder Files
 Now you have to copy some files to their correct locations. 
-1. Navigate to C:\MOISE\Game Folder Files. 
+1. Navigate to C:\MME\Game Folder Files. 
 2. Copy all of these files into [Steam Install Location]\steamapps\common\Morrowind\ and Overwrite if prompted.
 
 ### Morrowind Code Patch
 Unfortunately, MCP doesn't come pre-configured because that would require redistributing a copy of the Morrowind.exe which is 100% illegal. So, we have to do it manually.
 
 1. Run the Morrowind Code Patch.exe file from inside your Morrowind install folder. Important!: If you receive an error regarding a missing DLL, you need to download and install the x86 version of the Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package MFC Security Update.
-2. The only required options in MCP for MOISE are as follows:
+2. The only required options in MCP for MME are as follows:
 	- Mod specific:
 		- Scripted music uninterruptible
 		- Separate axe inventory sounds
@@ -76,7 +76,7 @@ Unfortunately, MCP doesn't come pre-configured because that would require redist
 4. Click "Apply chosen patches".
 
 ### Mod Organizer 2
-1. Navigate to C:\MOISE and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
+1. Navigate to C:\MME and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click Yes.'
 
 ### MGEXEgui
@@ -97,7 +97,7 @@ MGEXEgui also needs to be manually configured so that certain graphics options a
 	- Allow screenshots: Enabled
 
 ## Launching the Game
-In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run button and click Run. This is how MOISE should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
+In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run button and click Run. This is how MME should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
 
 ## Troubleshooting
 Morrowind is a very temperamental game. Here are some common fixes for issues you may encounter.
@@ -109,7 +109,7 @@ Morrowind is a very temperamental game. Here are some common fixes for issues yo
   - Morrowind is wrong. This, to put it simply, happens when the mods installed changed since the last time you launched Morrowind. This warning can be safely ignored. Saving your game should remove the error.
 
 ## CREDITS & THANKS
-* MOISE created by ForgottenGlory
+* MME created by ForgottenGlory
 
 * Halgari & Wabbajack Team
   * Thank you for creating Wabbajack, you’re amazing!
