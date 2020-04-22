@@ -122,5 +122,5 @@ The only thing that needs to be mentioned is that MOISE is 100% incompatible wit
   * [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
 
 * Mod Authors
-  * None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
+  * None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works..
 
