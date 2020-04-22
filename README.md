@@ -81,6 +81,8 @@ Unfortunately, MCP doesn't come pre-configured because that would require redist
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click Yes.'
 
 ### MGEXEgui
+Go to the folder where WJ downloaded all the mods and open the MGE XE Manual Install-41102-0-11-6-1560626592.7z file. Copy all of the files here into your Morrowind install folder and overwrite when prompted.
+
 MGEXEgui also needs to be manually configured so that certain graphics options are enabled. Select "MGEXEgui" in the dropdown menu next to the Run button in MO2 and then click Run. Configure it as follows.
 
 - Graphics tab
