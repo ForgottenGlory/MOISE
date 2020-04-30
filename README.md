@@ -31,16 +31,16 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 5. Run the Morrowind Launcher to create any INI or registry entries the game needs. Immediately exit after this. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ## INSTALLATION SETUP
-1. Download the [Modlist File](https://drive.google.com/open?id=1ik0PDtHaVRui7qTvW87iB6szo-bxi6r4) as well as the [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
+1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
 3. Create a second folder called C:\MOISE. This folder is where everything will be installed.
 4. Ensure that C:\MOISE is completely empty.
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
 ## WABBAJACK INSTALLATION
-1. Run Wabbajack.exe. At the bottom of the window, click Install from Disk. A file picker window will appear. 
-2. Navigate to C:\Wabbajack and select MOISE.
-3. Click Open.
+1. Run Wabbajack.exe. At the bottom of the window, click Install a Modlist.
+2. Select MOISE from the list of modlists and click the down-arrow icon to download the installer.
+3. Click the "play" icon when it has finished.
 4. Set the Installation Location to C:\MOISE. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD.
 5. Click Run.
 6. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
