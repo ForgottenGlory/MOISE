@@ -33,7 +33,7 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 ## INSTALLATION SETUP
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
-3. Create a second folder called C:\MOISE. This folder is where everything will be installed.
+3. Create a second folder called C:\MOISE. This folder is where everything for the modlist will be installed.
 4. Ensure that C:\MOISE is completely empty.
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
