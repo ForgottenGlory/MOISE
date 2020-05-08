@@ -99,6 +99,8 @@ MGEXEgui also needs to be manually configured so that certain graphics options a
 	- Allow yes to all load errors: Enabled
 	- Allow screenshots: Enabled
 
+If you'd like you can set up whatever shaders you'd like by clicking on the "Shader setup..." button.
+
 ## LAUNCHING THE GAME
 In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run button and click Run. This is how MOISE should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
 
