@@ -1,6 +1,9 @@
 # MOISE
+Current version: 6/30/2020 v1.1.0
 [Screenshot Album](https://imgur.com/a/r7VDekm)  
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
+
+
 
 ## WARNINGS & DISCLAIMERS
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
@@ -15,8 +18,9 @@ I will do my best to provide support for adding mods to this list, but I make no
 Let's be real. Morrowind could run on a toaster at this point. However, there are a few options selected that may make particularly old/slow hardware struggle. Below are my system specifications. I have zero issues with stutter, loading times, or anything else.
 
 * CPU: Intel i5-8600K Overclocked to 4.2GHz
+* Hard Drive: Sabrent Rocket 2TB NVMe M.2
 * RAM: 16GB (16299MB actual)
-* GPU: nVidia GTX 1070 8GB (8192MB actual)
+* GPU: nVidia GTX 2080 Super 8GB (8192MB actual)
 * Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
@@ -54,7 +58,7 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. Don’t forget to upload your log file!
 
-If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to MOISE is imminent. Be patient and wait for the new release. Do not ask other people to share older files as this is a violation of the Nexus ToS.
+If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to MOISE is imminent. Be patient and wait for the new release. Do not ask other people to share old versions of files as this is a violation of the Nexus ToS.
 
 ## POST-WABBAJACK INSTALL
 
@@ -99,7 +103,7 @@ MGEXEgui also needs to be manually configured so that certain graphics options a
 	- Allow yes to all load errors: Enabled
 	- Allow screenshots: Enabled
 
-If you'd like you can set up whatever shaders you'd like by clicking on the "Shader setup..." button.
+If you'd like you can set up whatever shaders you'd like by clicking on the "Shader setup..." button. Note that the shaders, if set too high in terms of quality, can have significant impact on performance. I personally like the High preset.
 
 ## LAUNCHING THE GAME
 In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run button and click Run. This is how MOISE should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
