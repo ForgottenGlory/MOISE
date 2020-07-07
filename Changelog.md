@@ -5,7 +5,7 @@
 * **Mod Updates**
   * Updated Solstheim Tomb of the Snow Prince.
 
-### 7/XX/2020 1.1.0
+### 6/302020 1.1.0
 #### Minor
 * **Additions**
   * Apel's Rain Replacer.
@@ -23,3 +23,8 @@
   * Vurt's Solstheim Tree Replacer v1.1a -> v1.2
 * **Other**
   * Regenerated Multipatch.
+
+### 7/6/2020 1.1.1
+#### Incremental
+* **Replacements**
+  * Remiros' Stronghold Retexture -> Aesthesia Stronghold Retexture
