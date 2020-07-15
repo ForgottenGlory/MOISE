@@ -34,6 +34,8 @@ With Morrowind it is REQUIRED that you start with a clean, unmodified installati
 4. In Steam, set Morrowind to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 5. Run the Morrowind Launcher to create any INI or registry entries the game needs. Immediately exit after this. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
+Make sure you have installed the English version of the game, other languages will cause Wabbajack to throw an error while verifying the game's files match what it is expecting.
+
 ## INSTALLATION SETUP
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
@@ -81,7 +83,7 @@ Unfortunately, MCP doesn't come pre-configured because that would require redist
 4. Click "Apply chosen patches".
 
 ### Mod Organizer 2
-1. Navigate to C:\MOISE and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
+1. Navigate to C:\MOISE and open ModOrganizer.exe. Your Mod Organizer window will have the Morrowind theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click Yes.'
 
 ### MGEXEgui
