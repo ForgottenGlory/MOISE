@@ -1,5 +1,5 @@
 # MOISE
-Current version: 6/30/2020 v1.1.0  
+Current version: 8/23/2020 v1.2.0 
 
 [Screenshot Album](https://imgur.com/a/r7VDekm)  
 
@@ -8,7 +8,7 @@ Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graph
 ## WARNINGS & DISCLAIMERS
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
 
-This modlist requires approximately 13GB of storage space on top of the 1.4GB for Morrowind Game of the Year Edition. As usual, installing to an SSD is recommended, but c'mon, this is Morrowind. An HDD will be fine.
+This modlist requires approximately 14GB of storage space on top of the 1.4GB for Morrowind Game of the Year Edition. As usual, installing to an SSD is recommended, but c'mon, this is Morrowind. An HDD will be fine.
 
 Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work. Note that Morrowind requires a bit more work after WJ is done than other modlists due to the amount of extra executables involved.
 
@@ -85,6 +85,13 @@ Unfortunately, MCP doesn't come pre-configured because that would require redist
 ### Mod Organizer 2
 1. Navigate to C:\MOISE and open ModOrganizer.exe. Your Mod Organizer window will have the Morrowind theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click Yes.'
+
+#### Configuration Specific
+The following steps only need to be used if you are running the game at either the 16:10 or 4:3 aspect ratios.
+
+1. Near the bottom of the left pane of MO2, find the "HD Intro Cinematic" mods. 
+2. Disable whichever one is currently enabled.
+3. Enable whichever one matches the aspect ratio of the game you'll be playing it at.
 
 ### MGEXEgui
 Go to the folder where WJ downloaded all the mods and open the MGE XE Manual Install-41102-0-11-6-1560626592.7z file. Copy all of the files here into your Morrowind install folder and overwrite when prompted.
