@@ -1,5 +1,5 @@
 # MOISE
-Current version: 8/23/2020 v1.2.0 
+Current version: 11/8/2020 1.2.1 
 
 [Screenshot Album](https://imgur.com/a/r7VDekm)  
 

@@ -52,3 +52,10 @@
   * Updated MO2 to v2.3.2
 * **Other**
   * Regenerated Distant Land
+
+### 11/8/2020 1.2.1
+#### Incremental
+* **Mod Updates**
+  * Updated LGNPCs
+  * Updated EKM Vanilla-Based Ash Grasses
+  * Updated UMOPP.
