@@ -59,3 +59,11 @@
   * Updated LGNPCs
   * Updated EKM Vanilla-Based Ash Grasses
   * Updated UMOPP.
+
+### 12/8/2020 1.2.2
+#### Incremental
+* **Additions**
+	* Added Wey's Argonians
+	* Added Better Beast Bodies (Clean edition)
+* **Removals**
+	* Removed Improved Argonians
